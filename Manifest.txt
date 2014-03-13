@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/with_markdown
+lib/with_markdown.rb
+test/test_with_markdown.rb
