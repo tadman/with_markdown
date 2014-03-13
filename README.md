@@ -1,37 +1,37 @@
-= with_markdown
+# with_markdown
 
 * http://daringfireball.net/projects/markdown/syntax
 
-== DESCRIPTION:
+## DESCRIPTION
 
 Example project with Markdown `README.md` file.
 
-== FEATURES/PROBLEMS:
+## FEATURES/PROBLEMS
 
 * Might have problems.
 
-== SYNOPSIS:
+## SYNOPSIS
 
     # Ruby code goes here.
 
-== REQUIREMENTS:
+## REQUIREMENTS
 
 * Ruby + Hoe
 
-== INSTALL:
+## INSTALL
 
 * Run: `gem install with_markdown`
 
-== DEVELOPERS:
+## DEVELOPERS
 
 After checking out the source, run:
 
-  $ rake
+  $ rake newb
 
 This task will install any missing dependencies, run the tests/specs,
 and generate the RDoc.
 
-== LICENSE:
+## LICENSE
 
 (The MIT License)
 
